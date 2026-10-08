@@ -27,9 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
