@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Math
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/tadakaradhika2-art/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
